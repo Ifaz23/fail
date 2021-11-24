@@ -20,5 +20,6 @@ public class Main {
         System.out.println("Total : "+total);
         System.out.println("Average : "+avg);
         System.out.println("Grade : "+grade);
+        System.out.println("This is updated");
     }
 }
